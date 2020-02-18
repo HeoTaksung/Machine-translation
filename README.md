@@ -1,5 +1,5 @@
 # 기계 번역 평가를 위한 2가지 알고리즘 BLEU, METEOR
-## 1. BLEU (BiLingual Evaluation Understudy)
+## 1. BLEU (BiLingual Evaluation Understudy) (precision 보정 전)
 
 * BLEU 평가의 기본 단위는 문장이다.  
   
