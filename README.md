@@ -11,7 +11,7 @@
     
 * BLEU의 값은 0~1사이의 숫자이며 n-gram을 통한 순서쌍들이 겹치는 개수와 후보 단어수, 참조 단어수에 따라 값이 바뀐다.
     
-* BLEU 디렉토리에 있는 코드는 unigram ~ quadrigram까지 측정하는 코드이다.  
+* BLEU 디렉토리에 있는 코드는 후보와 참조를 1:1로 매칭시켜 unigram ~ quadrigram까지 측정하는 코드이다.  
 
 ![BLEU](https://github.com/HeoTaksung/Machine-translation/blob/master/BLEU/BLEU_form.PNG)
 
