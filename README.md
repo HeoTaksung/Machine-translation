@@ -13,6 +13,8 @@
     
 * BLEU 디렉토리에 있는 코드는 unigram ~ quadrigram까지 측정하는 코드이다.  
 
+![BLEU](https://github.com/HeoTaksung/Machine-translation/blob/master/BLEU/BLEU_form.PNG)
+
 **Wikipedia Link: [BLEU](https://en.wikipedia.org/wiki/BLEU)**  
 **BLEU Paper Link: [BLEU_Paper](https://www.aclweb.org/anthology/P02-1040.pdf)**
 
